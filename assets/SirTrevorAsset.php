@@ -27,7 +27,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-namespace drmabuse\sirtrevorjs\assets;
+namespace bethrezen\sirtrevorjs\assets;
 
 use Yii;
 use yii\helpers\ArrayHelper;
@@ -48,7 +48,7 @@ class SirTrevorAsset extends AssetBundle
     /**
      * @var string
      */
-    public $sourcePath = '@vendor/drmabuse/yii2-sir-trevor-js/web';
+    public $sourcePath = '@vendor/bethrezen/yii2-sir-trevor-js/web';
 
     /**
      * @var array
