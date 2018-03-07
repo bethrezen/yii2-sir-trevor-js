@@ -27,9 +27,9 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-namespace drmabuse\sirtrevorjs;
+namespace bethrezen\sirtrevorjs;
 
-use drmabuse\sirtrevorjs\assets\SirTrevorAsset;
+use bethrezen\sirtrevorjs\assets\SirTrevorAsset;
 use Yii;
 use yii\helpers\Html;
 use yii\helpers\Json;
