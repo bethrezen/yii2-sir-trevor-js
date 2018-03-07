@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "drmabuse\\sirtrevorjs\\": ""
+            "bethrezen\\sirtrevorjs\\": ""
         }
     },
     "require": {
