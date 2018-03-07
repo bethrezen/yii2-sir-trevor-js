@@ -28,7 +28,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace drmabuse\sirtrevorjs;
+namespace bethrezen\sirtrevorjs;
 
 use \Michelf\MarkdownExtra as Markdown;
 use yii\helpers\VarDumper;
